@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/googleapis/python-vm-migration/compare/v1.0.0...v1.1.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#14](https://github.com/googleapis/python-vm-migration/issues/14)) ([bf6760c](https://github.com/googleapis/python-vm-migration/commit/bf6760ce5ead26b352a5a89e079fa2ca20c0c3c6))
+
 ## [1.0.0](https://github.com/googleapis/python-vm-migration/compare/v0.1.0...v1.0.0) (2022-01-24)
 
 
